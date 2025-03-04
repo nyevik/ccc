@@ -11,4 +11,5 @@ int main() {
     alphabet[i] = i + 65;
   }
   printf("%s", alphabet);
+  printf("is this going to push or not\n");
 }
