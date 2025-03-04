@@ -31,6 +31,7 @@ int main() {
   }
   cout << endl;
   printf("A book holds %s\n ", english);
+  ////////////////////////
 
   /*for(size_t i = 0; i < sizeof(chinese)/sizeof(char16_t); i++) {
     wprintf(" %wchar_t",chinese[i] );
